@@ -1,1 +1,1 @@
-## End to End Machine Learning Project
+## MACHINE LEARNING ENVIRONMENT AND STRUCTURE
